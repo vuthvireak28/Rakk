@@ -1,0 +1,21 @@
+{
+    "name": "Rakk portfolio",
+    "short_name": "Rakk",
+    "description": "Front-End Development -- IT Support -- Graphic Design.",
+    "start_url": ".",
+    "display": "workheart",
+    "background_color": "#f4f4f4",
+    "theme_color": "#e91e63",
+    "icons": [
+      {
+        "src": "https://images2.imgbox.com/64/f4/mxFohTgh_o.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://images2.imgbox.com/64/f4/mxFohTgh_o.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
