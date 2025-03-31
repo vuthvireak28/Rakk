@@ -1,0 +1,155 @@
+body {
+    background-color: rgb(48, 48, 48);
+  }
+
+  .navbar{
+    background-color: rgb(48, 48, 48);
+    font-family: "Times New Roman";
+  }
+
+  .img-fluid {
+    max-width: 70%;
+    height: auto;
+    
+}
+
+
+ 
+.borderstyle {
+    border-left: 1px solid;
+    height: 350px;
+    margin: 230px 200px 0 0;
+}
+
+
+
+.hero-text h3 {
+    font-family: "Times New Roman";
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+.hero-text h1 {
+    font-family: "Times New Roman";
+    font-size: 70px;
+    margin-bottom: 20px;
+  }
+
+.hero-text p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+.aboutme{
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+
+.myskill{
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+
+.textheading{
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+
+.card{
+  width: 80%;
+  height: 100%;
+}
+
+.card-text{
+  font-family: "Times New Roman";
+  font-size: 15px;
+}
+#carouselExampleFade{
+  width: 100%;
+  height: auto;
+}
+
+.active-button {
+  background-color: white;
+  color: black;
+}
+
+#educationBtn{
+  padding: 15px 130px;
+  margin-right:15px ;
+  font-family: "Times New Roman";
+  font-size: 30px;
+}
+
+#experienceBtn{
+  padding: 15px 130px;
+  margin-left: 15px;
+  font-family: "Times New Roman";
+  font-size: 30px;
+}
+
+.textct{
+  font-family: "Times New Roman";
+  color: white;
+}
+
+.icon{
+  border: 1px solid rgb(87, 87, 87);
+  border-radius: 100%;
+  margin: 40px 10px 0 0;
+  padding: 17px 23px;
+}
+
+.iconct{
+  margin: 50px 20px 0 0;
+  padding: 10px 10px 10px 10px;
+  font-size: 30px;
+}
+
+.textct{
+  margin: 40px 10px 0 0;
+  padding: 17px 23px;  
+  font-size: 25px;
+}
+
+.imglogo{
+  width: 200px;
+  height: auto;
+}
+
+.imgfooter{
+  width: 150px;
+  height: auto;
+}
+
+.custom-footer {
+  color: #d1d5db; /* Light text color */
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+.custom-footer a {
+  color: #d1d5db;
+  text-decoration: none;
+}
+
+.custom-footer a:hover {
+  text-decoration: underline;
+}
+
+.custom-footer .heart {
+  color: #e91e63; /* Pink heart color */
+}
+
+.progress-line {
+  width: 0; /* Initial width is 0 */
+  transition: width 2.5s ease-in-out; /* Smooth animation */
+}
+
+.progress-line {
+  width: 0; /* Initial width is 0 */
+  transition: width 2.5s ease-in-out; /* Smooth animation */
+}
+
+
