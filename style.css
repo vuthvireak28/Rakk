@@ -12,8 +12,6 @@ body {
     height: auto;
     
 }
-
-
  
 .borderstyle {
     border-left: 1px solid;
@@ -39,6 +37,10 @@ body {
     font-family: "Times New Roman";
     font-size: 20px;
     margin-bottom: 20px;
+  }
+
+.hero-text {
+    font-family: "Times New Roman";
   }
 
 .aboutme{
@@ -152,4 +154,13 @@ body {
   transition: width 2.5s ease-in-out; /* Smooth animation */
 }
 
+.iconsc{
+  transition: font-size 0.2s;
+  
+}
+
+.iconsc:hover{
+  font-size: 60px;
+
+}
 
